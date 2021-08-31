@@ -2,7 +2,7 @@
 
 from distutils.core import setup, Extension
 
-__version__ = "1.1.0"
+__version__ = "1.1.0j"
 
 macros = [('MODULE_VERSION', __version__)]
 
